@@ -1,1 +1,0 @@
-My Designer Portfolio Site built with HTML, CSS, JavaScript
